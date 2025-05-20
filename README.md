@@ -20,6 +20,7 @@ Welcome to my GitHub!
 ## Projects
 
 - **A platform to learn as your wish**-Learn your way 
+(https://learnyourway.pages.dev/home)
 - **Image Steganography Tool** – Hide images inside images using Python
 - **CLI Tools & Hackathon Projects** – Real-time solutions for college events
 
